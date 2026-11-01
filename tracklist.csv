@@ -1,0 +1,59 @@
+id,page,part,plays,dur,title,voices,url
+F-ALPH,8,front,1,2:20,Das Alphabet + Buchstabieren,de-DE-KatjaNeural,https://hamaysfi.github.io/audio_a1/F-ALPH.mp3
+F-ZAHL,9,front,1,1:27,Die Zahlen 0–100 + Zahlen-Diktat,de-DE-KatjaNeural,https://hamaysfi.github.io/audio_a1/F-ZAHL.mp3
+F-KURS,10,front,1,1:03,Kurssprache,de-DE-KatjaNeural,https://hamaysfi.github.io/audio_a1/F-KURS.mp3
+M01-W1,14,modul-01,1,1:02,Wortschatz 1: Begrüßen & Verabschieden,de-DE-KatjaNeural,https://hamaysfi.github.io/audio_a1/M01-W1.mp3
+M01-W2,15,modul-01,1,1:12,Wortschatz 2: Länder & Sprachen,de-DE-KatjaNeural,https://hamaysfi.github.io/audio_a1/M01-W2.mp3
+M01-D,16,modul-01,1,0:48,Dialog: Im Sprachinstitut,de-DE-KatjaNeural de-DE-KillianNeural de-DE-SeraphinaMultilingualNeural,https://hamaysfi.github.io/audio_a1/M01-D.mp3
+M01-H,20,modul-01,2,2:44,Hören: Vier kurze Gespräche,de-DE-FlorianMultilingualNeural de-DE-KatjaNeural de-DE-KillianNeural de-DE-SeraphinaMultilingualNeural,https://hamaysfi.github.io/audio_a1/M01-H.mp3
+M01-A,24,modul-01,1,1:09,Aussprache: ie und ei,de-DE-KatjaNeural,https://hamaysfi.github.io/audio_a1/M01-A.mp3
+M02-W1,30,modul-02,1,1:54,Wortschatz 1: Berufe,de-DE-KatjaNeural,https://hamaysfi.github.io/audio_a1/M02-W1.mp3
+M02-W2,31,modul-02,1,0:53,Wortschatz 2: Persönliche Daten,de-DE-KatjaNeural,https://hamaysfi.github.io/audio_a1/M02-W2.mp3
+M02-D,32,modul-02,1,0:54,Dialog: Im Café in Frankfurt,de-DE-AmalaNeural de-DE-KatjaNeural de-DE-KillianNeural de-DE-SeraphinaMultilingualNeural,https://hamaysfi.github.io/audio_a1/M02-D.mp3
+M02-H,36,modul-02,2,2:43,Hören: Vier Nachrichten am Telefon,de-DE-AmalaNeural de-DE-KatjaNeural de-DE-KillianNeural,https://hamaysfi.github.io/audio_a1/M02-H.mp3
+M02-A,40,modul-02,1,0:59,Aussprache: Der Wortakzent,de-DE-KatjaNeural,https://hamaysfi.github.io/audio_a1/M02-A.mp3
+M03-W1,46,modul-03,1,1:30,Wortschatz 1: Die Familie,de-DE-KatjaNeural,https://hamaysfi.github.io/audio_a1/M03-W1.mp3
+M03-W2,47,modul-03,1,0:56,Wortschatz 2: Die Großfamilie,de-DE-KatjaNeural,https://hamaysfi.github.io/audio_a1/M03-W2.mp3
+M03-D,48,modul-03,1,0:44,Dialog: Das Familienfoto,de-DE-KatjaNeural de-DE-KillianNeural de-DE-SeraphinaMultilingualNeural,https://hamaysfi.github.io/audio_a1/M03-D.mp3
+M03-H,52,modul-03,2,2:25,Hören: Vier kurze Gespräche,de-DE-AmalaNeural de-DE-KatjaNeural de-DE-KillianNeural de-DE-SeraphinaMultilingualNeural,https://hamaysfi.github.io/audio_a1/M03-H.mp3
+M03-A,56,modul-03,1,1:08,"Aussprache: ä, ö, ü",de-DE-KatjaNeural,https://hamaysfi.github.io/audio_a1/M03-A.mp3
+M04-W1,62,modul-04,1,1:42,Wortschatz 1: Lebensmittel,de-DE-KatjaNeural,https://hamaysfi.github.io/audio_a1/M04-W1.mp3
+M04-W2,63,modul-04,1,0:50,Wortschatz 2: Getränke,de-DE-KatjaNeural,https://hamaysfi.github.io/audio_a1/M04-W2.mp3
+M04-D,64,modul-04,1,0:40,Dialog: Auf dem Markt,de-DE-KatjaNeural de-DE-KillianNeural,https://hamaysfi.github.io/audio_a1/M04-D.mp3
+M04-H,68,modul-04,2,2:27,Hören: Vier kurze Gespräche,de-DE-ConradNeural de-DE-FlorianMultilingualNeural de-DE-KatjaNeural de-DE-KillianNeural de-DE-SeraphinaMultilingualNeural,https://hamaysfi.github.io/audio_a1/M04-H.mp3
+M04-A,72,modul-04,1,0:57,Aussprache: ch,de-DE-KatjaNeural,https://hamaysfi.github.io/audio_a1/M04-A.mp3
+M05-W1,78,modul-05,1,1:00,Wortschatz 1: Tageszeiten,de-DE-KatjaNeural,https://hamaysfi.github.io/audio_a1/M05-W1.mp3
+M05-W2,79,modul-05,1,0:46,Wortschatz 2: Die Uhrzeit,de-DE-KatjaNeural,https://hamaysfi.github.io/audio_a1/M05-W2.mp3
+M05-D,80,modul-05,1,0:42,Dialog: Wie spät ist es?,de-DE-KatjaNeural de-DE-KillianNeural,https://hamaysfi.github.io/audio_a1/M05-D.mp3
+M05-H,84,modul-05,2,2:35,Hören: Vier Nachrichten am Telefon,de-DE-AmalaNeural de-DE-KatjaNeural de-DE-SeraphinaMultilingualNeural,https://hamaysfi.github.io/audio_a1/M05-H.mp3
+M05-A,88,modul-05,1,0:47,Aussprache: z,de-DE-KatjaNeural,https://hamaysfi.github.io/audio_a1/M05-A.mp3
+M05-P,91,modul-05,2,1:16,Prüfungs-Fit: Hören Teil 3,de-DE-FlorianMultilingualNeural de-DE-KatjaNeural de-DE-SeraphinaMultilingualNeural,https://hamaysfi.github.io/audio_a1/M05-P.mp3
+M06-W1,94,modul-06,1,0:54,Wortschatz 1: Die Zimmer,de-DE-KatjaNeural,https://hamaysfi.github.io/audio_a1/M06-W1.mp3
+M06-W2,95,modul-06,1,1:44,Wortschatz 2: Die Möbel,de-DE-KatjaNeural,https://hamaysfi.github.io/audio_a1/M06-W2.mp3
+M06-D,96,modul-06,1,0:45,Dialog: Das WG-Zimmer,de-DE-FlorianMultilingualNeural de-DE-KatjaNeural de-DE-KillianNeural,https://hamaysfi.github.io/audio_a1/M06-D.mp3
+M06-H,100,modul-06,2,2:22,Hören: Vier Nachrichten am Telefon,de-DE-ConradNeural de-DE-FlorianMultilingualNeural de-DE-KatjaNeural de-DE-SeraphinaMultilingualNeural,https://hamaysfi.github.io/audio_a1/M06-H.mp3
+M06-A,104,modul-06,1,0:55,"Aussprache: sch, sp, st",de-DE-KatjaNeural,https://hamaysfi.github.io/audio_a1/M06-A.mp3
+M07-W1,110,modul-07,1,1:46,Wortschatz 1: Kleidung,de-DE-KatjaNeural,https://hamaysfi.github.io/audio_a1/M07-W1.mp3
+M07-W2,111,modul-07,1,0:51,Wortschatz 2: Im Geschäft,de-DE-KatjaNeural,https://hamaysfi.github.io/audio_a1/M07-W2.mp3
+M07-D,112,modul-07,1,0:45,Dialog: Im Modegeschäft,de-DE-AmalaNeural de-DE-KatjaNeural,https://hamaysfi.github.io/audio_a1/M07-D.mp3
+M07-H,116,modul-07,1,1:32,Hören: Vier Durchsagen im Kaufhaus,de-DE-KatjaNeural,https://hamaysfi.github.io/audio_a1/M07-H.mp3
+M07-A,120,modul-07,1,0:50,Aussprache: eu und äu,de-DE-KatjaNeural,https://hamaysfi.github.io/audio_a1/M07-A.mp3
+M08-W1,126,modul-08,1,1:34,Wortschatz 1: Hobbys,de-DE-KatjaNeural,https://hamaysfi.github.io/audio_a1/M08-W1.mp3
+M08-W2,127,modul-08,1,0:55,Wortschatz 2: Orte,de-DE-KatjaNeural,https://hamaysfi.github.io/audio_a1/M08-W2.mp3
+M08-D,128,modul-08,1,0:49,Dialog: Hast du Zeit?,de-DE-KatjaNeural de-DE-KillianNeural de-DE-SeraphinaMultilingualNeural,https://hamaysfi.github.io/audio_a1/M08-D.mp3
+M08-H,132,modul-08,2,2:25,Hören: Vier Nachrichten am Telefon,de-DE-KatjaNeural de-DE-KillianNeural de-DE-SeraphinaMultilingualNeural,https://hamaysfi.github.io/audio_a1/M08-H.mp3
+M08-A,136,modul-08,1,0:48,Aussprache: r,de-DE-KatjaNeural,https://hamaysfi.github.io/audio_a1/M08-A.mp3
+M09-W1,142,modul-09,1,1:50,Wortschatz 1: Orte in der Stadt,de-DE-KatjaNeural,https://hamaysfi.github.io/audio_a1/M09-W1.mp3
+M09-W2,143,modul-09,1,0:55,Wortschatz 2: Verkehrsmittel,de-DE-KatjaNeural,https://hamaysfi.github.io/audio_a1/M09-W2.mp3
+M09-D,144,modul-09,1,0:38,Dialog: Wo ist der Bahnhof?,de-DE-FlorianMultilingualNeural de-DE-KatjaNeural de-DE-KillianNeural,https://hamaysfi.github.io/audio_a1/M09-D.mp3
+M09-H,148,modul-09,1,1:26,Hören: Vier Durchsagen am Bahnhof,de-DE-KatjaNeural,https://hamaysfi.github.io/audio_a1/M09-H.mp3
+M09-A,152,modul-09,1,0:40,Aussprache: lang oder kurz?,de-DE-KatjaNeural,https://hamaysfi.github.io/audio_a1/M09-A.mp3
+M10-W1,158,modul-10,1,1:38,Wortschatz 1: Der Körper,de-DE-KatjaNeural,https://hamaysfi.github.io/audio_a1/M10-W1.mp3
+M10-W2,159,modul-10,1,1:26,Wortschatz 2: Wetter und Jahreszeiten,de-DE-KatjaNeural,https://hamaysfi.github.io/audio_a1/M10-W2.mp3
+M10-D,160,modul-10,1,0:46,Dialog: Beim Arzt,de-DE-KatjaNeural de-DE-KillianNeural,https://hamaysfi.github.io/audio_a1/M10-D.mp3
+M10-H,164,modul-10,2,2:31,Hören: Vier kurze Gespräche,de-DE-AmalaNeural de-DE-ConradNeural de-DE-KatjaNeural de-DE-KillianNeural de-DE-SeraphinaMultilingualNeural,https://hamaysfi.github.io/audio_a1/M10-H.mp3
+M10-A,168,modul-10,1,1:04,Aussprache: Satzmelodie,de-DE-KatjaNeural,https://hamaysfi.github.io/audio_a1/M10-A.mp3
+M10-P,171,modul-10,1,1:18,Prüfungs-Fit: Hören Teil 2 – Am Flughafen,de-DE-KatjaNeural,https://hamaysfi.github.io/audio_a1/M10-P.mp3
+MT-H1,179,back,2,2:47,Modelltest Hören Teil 1,de-DE-FlorianMultilingualNeural de-DE-KatjaNeural de-DE-SeraphinaMultilingualNeural,https://hamaysfi.github.io/audio_a1/MT-H1.mp3
+MT-H2,179,back,1,1:16,Modelltest Hören Teil 2,de-DE-KatjaNeural,https://hamaysfi.github.io/audio_a1/MT-H2.mp3
+MT-H3,179,back,2,2:31,Modelltest Hören Teil 3,de-DE-FlorianMultilingualNeural de-DE-KatjaNeural de-DE-KillianNeural,https://hamaysfi.github.io/audio_a1/MT-H3.mp3
